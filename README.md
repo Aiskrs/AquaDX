@@ -15,7 +15,7 @@ Below is a list of games supported by this server.
 
 | Game                       | Ver  | Codename      | Thanks to                                  |
 |----------------------------|------|---------------|--------------------------------------------|
-| SDEZ: MaiMai DX            | 1.50(beta) | PRiSM | [@aiskrs](https://github.com/Aiskrs/)   |
+| SDEZ: MaiMai DX            |1.50(beta)|PRiSM| [@aiskrs](https://github.com/Aiskrs/)   |
 
 > **News**: AquaDX just added Wacca support on Mar 29, 2024! Feel free to test it out, but expect bugs and issues.
 
